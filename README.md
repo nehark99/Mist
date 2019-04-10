@@ -7,10 +7,10 @@ https://harshpalan14.000webhostapp.com/
 # Screenshots:
 
 **Moisture**
-![Moisture](../ss/moisture.png)
+![](ss/moisture.png)
 
 **Humidity**
-![Humidity](../ss/humidity.png)
+![](ss/humidity.png)
 
 **Temperature**
-![Temperature](../ss/temp.png)
+![](ss/temp.png)
